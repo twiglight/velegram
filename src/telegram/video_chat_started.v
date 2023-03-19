@@ -1,0 +1,5 @@
+module telegram
+
+struct VideoChatStarted {
+
+}
