@@ -1,5 +1,4 @@
 module telegram
 
-struct ForumTopicReopened {
-
+pub struct ForumTopicReopened {
 }

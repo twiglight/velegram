@@ -1,5 +1,4 @@
 module telegram
 
-struct WriteAccessAllowed {
-
+pub struct WriteAccessAllowed {
 }

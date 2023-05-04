@@ -1,5 +1,4 @@
 module telegram
 
-struct VideoChatStarted {
-
+pub struct VideoChatStarted {
 }

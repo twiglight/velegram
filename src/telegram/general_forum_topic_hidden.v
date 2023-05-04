@@ -1,5 +1,4 @@
 module telegram
 
-struct GeneralForumTopicHidden {
-
+pub struct GeneralForumTopicHidden {
 }

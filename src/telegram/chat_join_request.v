@@ -1,5 +1,4 @@
 module telegram
 
-struct ChatJoinRequest {
-
+pub struct ChatJoinRequest {
 }

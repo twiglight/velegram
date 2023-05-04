@@ -1,5 +1,4 @@
 module telegram
 
-struct ChatMemberUpdated {
-
+pub struct ChatMemberUpdated {
 }
